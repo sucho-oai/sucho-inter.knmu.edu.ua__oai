@@ -1,4 +1,0 @@
-marcxml
-oai_dc
-rfc1807
-oai_marc
